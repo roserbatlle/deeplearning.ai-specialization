@@ -1,1 +1,1 @@
-# deeplearning.ai-specialization
+# Deep Learning Specialization by deeplearning.ai
